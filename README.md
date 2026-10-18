@@ -9,6 +9,7 @@ An interactive Tableau dashboard analyzing Superstore sales, profitability, regi
 - Sales and profitability analysis
 
 ## Dashboard
+![Project 4 — Tableau Sales & Profit Dashboard](Project4_Dashboard.png)
 [View Interactive Tableau Dashboard](https://public.tableau.com/views/Project_4_Tableau_17916458019900/SuperstoreSalesProfitDashboard)
 
 ## Analysis
